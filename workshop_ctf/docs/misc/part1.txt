@@ -1,0 +1,2 @@
+You’ve found Part 1 of the flag: LiNuX.
+Now, move to the 'secrets' folder for more.
